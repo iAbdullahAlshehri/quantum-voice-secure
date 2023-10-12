@@ -41,3 +41,4 @@ By contributing to Quantum Voice Secure, you agree to abide by these terms, fost
 This project is released under the [Creative Commons Attribution-NonCommercial License 4.0](LICENSE). This license restricts the use of the project for commercial purposes. You are free to use, modify, and distribute the project for non-commercial and educational purposes. If you wish to use this project for commercial purposes, please contact the project owner for appropriate licensing.
 
 ---
+Quantum Voice Secure © 2023 by Abdullah Alshehri is licensed under Attribution-NonCommercial 4.0 International. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
